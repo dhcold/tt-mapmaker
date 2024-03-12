@@ -1,1 +1,1 @@
-# Code
+# MapMaker source project
